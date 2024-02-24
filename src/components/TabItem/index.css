@@ -1,0 +1,6 @@
+.tabs-container {
+    list-style-type: none;
+    /* Remove bullets from the list */
+    display: flex;
+    justify-content: center;
+}
