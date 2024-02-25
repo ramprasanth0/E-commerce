@@ -1,4 +1,4 @@
-Revogue E-Commerce Website Overview:
+E-Commerce WebApp Overview:
 
 Navbar:
 Implemented a responsive navigation bar using Bootstrap's navbar component.
