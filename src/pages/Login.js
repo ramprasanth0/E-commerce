@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { Redirect } from 'react-router-dom';
+// import { Redirect } from 'react-router-dom';
 
 
 function Login() {
@@ -8,7 +8,7 @@ function Login() {
     const [password, setPassword] = useState('')
     const [error, setError] = useState('');
     // const history = useHistory() // Get the history object from React Router
-    const [redirectToRoot, setRedirectToRoot] = useState(false);
+    // const [redirectToRoot, setRedirectToRoot] = useState(false);
 
     //dummy user
     const dummyUser = [{ email: "abc", password: "123" }, { email: "xyz", password: "456" }]
@@ -32,7 +32,7 @@ function Login() {
             setError('');
             //Redirect user to home page
             // history.push('/')
-            setRedirectToRoot(true);
+            // setRedirectToRoot(true);
         } else {
             // User not found or invalid credentials
             setError('Invalid email or password');
