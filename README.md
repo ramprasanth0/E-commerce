@@ -16,8 +16,7 @@ Each tab item contains a button for navigation or selection.
 through selection each tab shows product of respective categories/
 
 Footer:
-Created a footer section to display brand information.
-Includes a brand logo and text indicating the brand's identity as "D2C Pvt Label Brand."
+Created a footer section to display brand information and other contact information.
 
 Functionalities:
 Navbar enables easy navigation across different sections of the website.
@@ -25,8 +24,7 @@ sale and promotion section attracts user attention with visually appealing image
 Tab items provide a structured layout for organizing content or product categories.
 Footer reinforces the brand identity and can provides contact information or links to important pages.
 
-
 Future Scope:
-Explore advanced features like user authentication, product filtering, and payment integration.
+Explore advanced features like user authentication,enhanced product filtering, and payment integration.
 Enhance UI/UX design for a more engaging and intuitive browsing experience.
 Regularly update content and promotions to keep the website fresh and appealing to users.
