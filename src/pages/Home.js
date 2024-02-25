@@ -196,7 +196,7 @@ class Home extends Component {
         return (
             <div className="app-container">
                 <Header />
-                <h1 className="">Shop By Category</h1>
+                <h1 className="mt-5 mb-3 text-center">Shop By Category</h1>
                 {/* <p className="description">
         </p> */}
 
@@ -218,9 +218,9 @@ class Home extends Component {
                         />
                     ))}
                 </ul>
-                <img src='/assets/img/carousel-3.avif' className="d-block w-100" alt='promotional'></img>
+                {/* <img src='/assets/img/carousel-3.avif' className="d-block w-100" alt='promotional'></img>
                 <img src='/assets/img/carousel-4.avif' className="d-block w-100" alt='promotional'></img>
-                <img src='/assets/img/carousel-5.avif' className="d-block w-100" alt='promotional'></img>
+                <img src='/assets/img/carousel-5.avif' className="d-block w-100" alt='promotional'></img> */}
                 <Footer />
             </div>
         )

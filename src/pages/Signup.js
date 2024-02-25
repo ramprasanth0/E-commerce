@@ -1,6 +1,6 @@
 
 
-export const SignUp = () => {
+const SignUp = () => {
     return (
         <div className="signup-container d-flex justify-content-center align-items-center vh-100">
             <div className="card p-5 col-3">
@@ -32,3 +32,5 @@ export const SignUp = () => {
         </div>
     )
 }
+
+export default SignUp
